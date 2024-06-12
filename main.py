@@ -7,7 +7,7 @@ from func import myFunc
 # cap = cv2.VideoCapture(1)
 cap = cv2.VideoCapture(0)
 
-modelPath = "./rknnModel/yolov5s_relu_tk2_RK3588_i8.rknn"
+modelPath = "./rknnModel/yolov5.rknn"
 
 TPEs = 3
 
